@@ -3,16 +3,16 @@
 ### We will always remember you..
 
 <div align="center">
-  <img border-radius: 15px src="redking.jpg" width="170" height="170"/>
+  <img border-radius: 15px src="parthanjpg" width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="Badboy" src="https://img.shields.io/badge/TOMIC-SER-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Achu-ser" src="https://img.shields.io/badge/Tomic-ser-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/TOMIC-SER"><img title="Author" src="https://img.shields.io/badge/Author-TOMIC-SER/Badboy?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Tomic-ser"><img title="Author" src="https://img.shields.io/badge/Author-Tomic-ser/Achu-ser?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/TOMIC-SER">TOMIC-SER</a> to make it public
+Project created by <a href="https://github.com/Tomic-ser">Tomic-ser</a> to make it public
     <br>
        | © |
         Reserved |
@@ -22,18 +22,18 @@ Project created by <a href="https://github.com/TOMIC-SER">TOMIC-SER</a> to make 
 ----
 
   <p align="center">
-  <a href="https://github.com/TOMIC-SER/Badboy ">
-    <img src="https://img.shields.io/github/repo-size/TOMIC-SER/Badboy?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/Tomic-ser/Achu-ser ">
+    <img src="https://img.shields.io/github/repo-size/Tomic-ser/Achu-ser?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/TOMIC-SER/followers"><img title="Followers" src="https://img.shields.io/github/followers/TOMIC-SER?color=red&style=flat-circle"></a>
-<a href="https://github.com/TOMIC-SER/Badboy/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TOMIC-SER/Badboy?color=red&style=flat-square"></a>
-<a href="https://github.com/TOMIC-SER/Badboy/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TOMIC-SER/Badboy?color=red&style=flat-square"></a>
-<a href="https://github.com/TOMIC-SER/Badboy/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TOMIC-SER/Badboy?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/Tomic-ser/followers"><img title="Followers" src="https://img.shields.io/github/followers/Tomic-ser?color=red&style=flat-circle"></a>
+<a href="https://github.com/Tomic-ser/Achu-ser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tomic-ser/Achu-ser?color=red&style=flat-square"></a>
+<a href="https://github.com/Tomic-ser/Achu-ser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Tomic-ser/Achu-ser?color=red&style=flat-square"></a>
+<a href="https://github.com/Tomic-ser/Achu-ser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Tomic-ser/Achu-ser?label=Watchers&color=red&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 
 ```
   
-Badboy - Badboy Userbot is Open Source software open to development. 
+Achu-ser - Achu-ser Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -55,7 +55,7 @@ the user is responsible.
   ### Simple Method
  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOMIC-SER/Badboy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tomic-ser/Achu-ser)
      </div>
 <br>
 <br >
@@ -86,9 +86,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [[![TOMIC-SER](https://github.com/TOMIC-SER.png?size=100)](https://github.com/TOMIC-SER) 
+  [[![Tomic-ser](https://github.com/Tomic-ser.png?size=100)](https://github.com/Tomic-ser) 
 
-[TOMIC-SER](https://github.com/TOMIC-SER)
+[Tomic-ser](https://github.com/Tomic-ser)
 
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
